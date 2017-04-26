@@ -40,9 +40,9 @@ module.exports = {
         }
       ]
     },
-    "router": {
+    "vuestrap": {
       "type": "confirm",
-      "message": "Install vue-router?"
+      "message": "Install vue-strap?"
     },
     "lint": {
       "type": "confirm",
