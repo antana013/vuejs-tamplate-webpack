@@ -1,4 +1,4 @@
-# vue-webpack-boilerplate
+# antna013/vuejs-templates-webpack
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
 
