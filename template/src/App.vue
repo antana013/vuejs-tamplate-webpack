@@ -6,12 +6,12 @@
 </template>
 
 <script>
-import Hello from './components/Hello'{{#if_eq lintConfig "airbnb"}};{{/if_eq}}
+import Home from './components/Home'{{#if_eq lintConfig "airbnb"}};{{/if_eq}}
 
 export default {
   name: 'app'{{#if_eq lintConfig "airbnb"}},{{/if_eq}},
   components: {
-    Hello{{#if_eq lintConfig "airbnb"}},{{/if_eq}}
+    Home{{#if_eq lintConfig "airbnb"}},{{/if_eq}}
   }{{#if_eq lintConfig "airbnb"}},{{/if_eq}}
 }{{#if_eq lintConfig "airbnb"}};{{/if_eq}}
 </script>
